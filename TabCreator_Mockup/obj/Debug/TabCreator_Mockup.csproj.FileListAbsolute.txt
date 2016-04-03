@@ -1,0 +1,62 @@
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\bin\Debug\TabCreator_Mockup.exe.config
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\bin\Debug\TabCreator_Mockup.exe
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\bin\Debug\TabCreator_Mockup.pdb
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.csprojResolveAssemblyReference.cache
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\App.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup_MarkupCompile.cache
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup_MarkupCompile.lref
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.g.resources
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.Properties.Resources.resources
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.csproj.GenerateResource.Cache
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.exe
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.pdb
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\App.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\CreateProjectWindow.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\CreateProjectWindow.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\StartWindow.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\StartWindow.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\LoadProject.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\LoadProject.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabEditorWindow.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_TopMenu.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabEditorWindow.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_TopMenu.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_MultipleGuitars.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_MultipleGuitars.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_NotesChordsScales.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_NotesChordsScales.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_EditorView.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_EditorView.baml
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_GuitarBottom.g.cs
+D:\Syntra\00 Eindwerk\00 PreOntwikkeling\Mockups\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_GuitarBottom.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\bin\Debug\TabCreator_Mockup.exe.config
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.exe
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.pdb
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\bin\Debug\TabCreator_Mockup.exe
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\bin\Debug\TabCreator_Mockup.pdb
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.csprojResolveAssemblyReference.cache
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\CreateProjectWindow.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_GuitarBottom.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\LoadProject.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\StartWindow.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabEditorWindow.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_EditorView.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_MultipleGuitars.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_NotesChordsScales.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_TopMenu.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\App.g.cs
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup_MarkupCompile.cache
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup_MarkupCompile.lref
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\App.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\CreateProjectWindow.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_GuitarBottom.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\LoadProject.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\StartWindow.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabEditorWindow.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_EditorView.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_MultipleGuitars.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_NotesChordsScales.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\UC_TopMenu.baml
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.g.resources
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.Properties.Resources.resources
+C:\Users\Joeri.AzureAD\Documents\Syntra\Eindwerk\Mockups\Eerste Mockup\TabCreator_Mockup\TabCreator_Mockup\obj\Debug\TabCreator_Mockup.csproj.GenerateResource.Cache

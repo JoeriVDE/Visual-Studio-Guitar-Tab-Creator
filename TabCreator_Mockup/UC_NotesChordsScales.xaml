@@ -1,0 +1,113 @@
+﻿<UserControl x:Class="TabCreator_Mockup.UC_NotesChordsScales"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TabCreator_Mockup"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="400" MinWidth="350">
+
+    <TabControl Background="{StaticResource Black_ExtraDark}" FontSize="{StaticResource Font_Size_S}">
+        <TabItem Background="{StaticResource Black_ExtraDark}" Foreground="{StaticResource Aqua_Soft}" BorderThickness="0" BorderBrush="Transparent" Header="Chords">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.02*"></RowDefinition>
+                    <RowDefinition Height="0.1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="0.1*"></RowDefinition>
+                    <RowDefinition Height="0.1*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Label Content="Normal chords" Grid.Row="1" Grid.Column="1" Foreground="{StaticResource Aqua_Soft}" FontSize="{StaticResource Font_Size_M}"></Label>
+
+                <ListBox Grid.Column="1" Grid.Row="2" Grid.RowSpan="2" Background="{StaticResource Black_SemiDark}" HorizontalContentAlignment="Left" Margin="0,0,10,0">
+                    <ListBoxItem>C</ListBoxItem>
+                    <ListBoxItem>C#/Db</ListBoxItem>
+                    <ListBoxItem>D</ListBoxItem>
+                    <ListBoxItem>D#/Db</ListBoxItem>
+                    <ListBoxItem>E</ListBoxItem>
+                    <ListBoxItem>F</ListBoxItem>
+                    <ListBoxItem>F#/Gb</ListBoxItem>
+                    <ListBoxItem>G</ListBoxItem>
+                    <ListBoxItem>G#/Ab</ListBoxItem>
+                    <ListBoxItem>A</ListBoxItem>
+                    <ListBoxItem>A#/Bb</ListBoxItem>
+                    <ListBoxItem>B</ListBoxItem>
+                </ListBox>
+
+                <ListBox Grid.Column="2" Grid.RowSpan="2" Grid.Row="2" Background="{StaticResource Black_SemiDark}" HorizontalContentAlignment="Left" Margin="0,0,10,0">
+                    <ListBoxItem>Major</ListBoxItem>
+                    <ListBoxItem>maj7</ListBoxItem>
+                    <ListBoxItem>maj9</ListBoxItem>
+                    <ListBoxItem>maj11</ListBoxItem>
+                    <ListBoxItem>Minor</ListBoxItem>
+                    <ListBoxItem>...</ListBoxItem>
+                </ListBox>
+
+                <Button Grid.Column="3" Grid.Row="3" Content="Get Chord" FontWeight="Light" Background="{StaticResource Black_Dark}" Foreground="{StaticResource  White_Soft}"></Button>
+
+            </Grid>
+        </TabItem>
+        <TabItem Background="{StaticResource Black_ExtraDark}" Foreground="{StaticResource Aqua_Soft}" BorderThickness="0" BorderBrush="Transparent" Header="Scales">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.02*"></RowDefinition>
+                    <RowDefinition Height="0.1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="0.1*"></RowDefinition>
+                    <RowDefinition Height="0.1*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Label Content="Chords" Grid.Row="1" Grid.Column="1" Foreground="{StaticResource Aqua_Soft}" FontSize="{StaticResource Font_Size_M}"></Label>
+                <Label Content="Scales" Grid.Row="1" Grid.Column="2" Foreground="{StaticResource Aqua_Soft}" FontSize="{StaticResource Font_Size_M}"></Label>
+
+                <ListBox Grid.Column="1" Grid.Row="2" Grid.RowSpan="2" Background="{StaticResource Black_SemiDark}" HorizontalContentAlignment="Left" Margin="0,0,10,0">
+                    <ListBoxItem>C</ListBoxItem>
+                    <ListBoxItem>C#/Db</ListBoxItem>
+                    <ListBoxItem>D</ListBoxItem>
+                    <ListBoxItem>D#/Db</ListBoxItem>
+                    <ListBoxItem>E</ListBoxItem>
+                    <ListBoxItem>F</ListBoxItem>
+                    <ListBoxItem>F#/Gb</ListBoxItem>
+                    <ListBoxItem>G</ListBoxItem>
+                    <ListBoxItem>G#/Ab</ListBoxItem>
+                    <ListBoxItem>A</ListBoxItem>
+                    <ListBoxItem>A#/Bb</ListBoxItem>
+                    <ListBoxItem>B</ListBoxItem>
+                </ListBox>
+
+                <ListBox Grid.Column="2" Grid.RowSpan="2" Grid.Row="2" Background="{StaticResource Black_SemiDark}" HorizontalContentAlignment="Left" Margin="0,0,10,0">
+                    <ListBoxItem>Major</ListBoxItem>
+                    <ListBoxItem>Harmonic Minor</ListBoxItem>
+                    <ListBoxItem>Melodic Minor Ascending</ListBoxItem>
+                    <ListBoxItem>Melodic Minor Descending</ListBoxItem>
+                    <ListBoxItem>Chromatic</ListBoxItem>
+                    <ListBoxItem>Whole Tone</ListBoxItem>
+                    <ListBoxItem>Pentatonic Major</ListBoxItem>
+                    <ListBoxItem>Pentatonic Minor</ListBoxItem>
+                    <ListBoxItem>Pentatonic Blues</ListBoxItem>
+                    <ListBoxItem>...</ListBoxItem>
+                </ListBox>
+
+                <Button Grid.Column="3" Grid.Row="3" Content="Get Scale" FontWeight="Light" Background="{StaticResource Black_Dark}" Foreground="{StaticResource  White_Soft}"></Button>
+
+            </Grid>
+        </TabItem>
+    </TabControl>
+</UserControl>
